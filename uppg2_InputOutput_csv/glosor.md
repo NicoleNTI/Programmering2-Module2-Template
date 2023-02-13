@@ -1,4 +1,4 @@
-# Glosföhör-program
+# Glosförhör-program
 Skriv ett program som anordnar ett glosförhör med Svenska och Finska ord.
 
 ## Programmet ska
