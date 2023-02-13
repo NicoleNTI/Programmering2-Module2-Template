@@ -11,7 +11,7 @@ Skriv ett program som anordnar ett glosförhör med Svenska och Finska ord.
 
 ## Exempel på hur det kan se ut:
 
-INDATA:
+    INDATA:
             1: Enter
             2: 1
             3: Enter
