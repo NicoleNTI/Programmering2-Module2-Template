@@ -2,7 +2,7 @@
 # Din klass
 # Datum
 
-# Skriv till en .txt fil
+# Skapa ett program som lägger till information till en annan fil och visar texten
 # Din kod nedan.
 
 # Skapa en valfri klass som har minst 3 attribut. Skapa därefter ett klassobjekt.
