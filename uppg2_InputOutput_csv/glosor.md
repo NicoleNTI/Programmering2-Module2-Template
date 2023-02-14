@@ -8,43 +8,46 @@ Skriv ett program som anordnar ett glosförhör med Svenska och Finska ord.
 3. Skriva ut en lista med glosorna.
 4. Ordna ett förhör med alla glosor och räkna antal rätta svar.
 4. Skriva ut antal korrekta svar efter förhöret.
+5. Extrauppgift: Implementera att en användare kan spara sina highscores som sparas i en fil (.txt går bra)!
 
 ## Exempel på hur det kan se ut:
 
-INDATA:
-            1: Enter
-            2: 1
-            3: Enter
-            4: Slips
-            5: Nej
-            6: Enter
-
-    UTDATA:
-            0: Tryck Enter för att köra igång!
-            1: Vad vill du köra?
-               1: albanska till svenska
-               2: svenska till albanska
-               Välj:
-            2: Detta är ett glostest mellan albanska och svenksa
-               Följande är de ord som testas!
-
-               Pantallona | Byxa
-               Triko      | Tröja
-               Corape     | Strumpa
-               xhakete    | Jacka
-               Kravate    | Slips
-               Kapak      | Mössa
-               Shall      | Halsduk
-               Rripa      | Skärp
-               Doreze     | Vante
-
-               Är du redo?
-            3: (*^▽^*) * 50 
-
-               Nu är det dags!
-               Vad betyder Kravate på svenska?
-            4: Rätt!
-               Tryck enter för att fortsätta, annars skriv nej
-            5: Du hadde 1 rätta svar!
-               \n * 50
-               Tryck enter för att köra igång!
+   Välkommen till glos programmet!
+   1: Visa Gloslista
+   2: Kör testet
+   3: Avsluta?
+   1
+   våga                uskaltaa
+   erbjuda             tarjota
+   talesätt            sanonta
+   utseende            ulkonäkö
+   sinne               mieli
+   näringstillskott    lisäravinne
+   prestationskrav     suorituspaine
+   skadlig             haitallinen
+   kropp               keho
+   skyddsnät           turvaverkko
+   riskbeteende        riskikäyttäytyminen
+   beskriva            kuvata
+   balanserad          tasapainoinen
+   kroppsbild          kehonkuva
+   uppleva             kokea
+   Välkommen till glos programmet!
+   1: Visa Gloslista
+   2: Kör testet
+   3: Avsluta?
+   2
+   Välkommen till ditt glosförhör, skriv 'exit' för tt avsluta när som helst
+   skyddsnät: keho
+   keho is wrong, -1 point
+   skadlig: haitallinen
+   skyddsnät: turvaverkko
+   kropp: keho
+   prestationskrav: exit
+   The test is done, your points: 2, wrong answers: skyddsnät,
+   Välkommen till glos programmet!
+   1: Visa Gloslista
+   2: Kör testet
+   3: Avsluta?
+   3
+   Bye Bye!
